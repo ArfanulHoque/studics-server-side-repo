@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "name": "Programming"
+  },
+  {
+    "id": "02",
+    "name": "Computer Networking"
+  },
+  {
+    "id": "03",
+    "name": "NetWork Security"
+  },
+  {
+    "id": "04",
+    "name": "Databases"
+  },
+  {
+    "id": "05",
+    "name": "Data Security"
+  },
+  {
+    "id": "06",
+    "name": "Data Science"
+  }
+]
